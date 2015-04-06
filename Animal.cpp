@@ -1,6 +1,7 @@
 #include "Animal.h"
 
 Animal::Animal ()
+// cool stuff
 {
     age           = 0;
     value         = 0;
@@ -9,7 +10,7 @@ Animal::Animal ()
     name.clear();
     animal.clear();
 }
-
+// u wot m8
 Animal::~Animal ()
 {
     age           = 0;
