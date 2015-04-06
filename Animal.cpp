@@ -1,11 +1,3 @@
-/**********************************************************
-* AUTHOR			: TC & Druox 2.0
-* STUDENT ID		: 366084 & 1010141
-* Lab 12			: Intro to OOP
-* CLASS 			: CS1B
-* SECTION 			: M W 8:30a - 12:20p
-* DUE DATE 			: 4/6/15
-**********************************************************/
 #include "Animal.h"
 
 Animal::Animal ()
