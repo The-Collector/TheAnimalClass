@@ -23,10 +23,4 @@ class Animal
     string animal;
     bool   isInitialized;
 };
-
-void Initialize(Animal &fluffy, Animal &maa, Animal &babe);
-void AgeChange(Animal &fluffy, Animal &maa, Animal &babe);
-void DisplayAllAnimals(Animal fluffy, Animal maa, Animal babe);
-void ValueChange(Animal &fluffy, Animal &maa, Animal &babe);
-
 #endif /* ANIMAL_H_ */
